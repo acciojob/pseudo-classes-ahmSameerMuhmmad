@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+ body{
+            margin-top: 0px;
+            margin-left: 2px;
+            background-color: skyblue;
+             color: white;
+        }
+        
+        li {
+            text-decoration: none;
+        }
